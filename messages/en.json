@@ -1,0 +1,269 @@
+{
+  "navigation": {
+    "dashboard": "Dashboard",
+    "modules": "Modules",
+    "community": "Community",
+    "coaching": "Coaching",
+    "examen": "Exam",
+    "settings": "Settings"
+  },
+  "modules": {
+    "overview": {
+      "title": "📚 Learning Path Overview",
+      "subtitle": "Complete modules to develop your web development skills and gain access to advanced content.",
+      "progress": "Progress",
+      "sectionsCompleted": "sections completed",
+      "sectionsInModule": "Sections in this module:",
+      "startModule": "Start Module",
+      "reviewModule": "Review Module",
+      "lockedMessage": "Complete previous modules to gain access",
+      "quizScore": "Quiz Score:",
+      "yourProgress": "📊 Your Progress",
+      "unlockedModules": "Modules Unlocked",
+      "completedSections": "Sections Completed",
+      "averageProgress": "Average Progress"
+    },
+    "module1": {
+      "name": "Module 1: Introduction",
+      "description": "Basic concepts and setup for web development",
+      "sections": {
+        "section1": {
+          "title": "📚 What You'll Learn",
+          "description": "In this introduction module you'll learn:",
+          "content": [
+            "What a website, webshop and web application are",
+            "How these differ in complexity",
+            "Earning potential per project type",
+            "Why AI is the game-changer for developers",
+            "How you can use AI as your personal assistant"
+          ]
+        },
+        "section2": {
+          "title": "🌐 Project Types & Earning Potential",
+          "description": "Discover the different project types and their earning potential:",
+          "content": [
+            "Website: €500 - €2,000",
+            "Webshop: €2,000 - €8,000",
+            "Web Application: €8,000 - €20,000+"
+          ]
+        },
+        "section3": {
+          "title": "🤖 AI as Your Personal Assistant",
+          "description": "Learn how AI revolutionizes your development workflow:",
+          "content": [
+            "Faster development with AI",
+            "Fewer errors through AI assistance",
+            "Making complex projects possible"
+          ]
+        },
+        "section4": {
+          "title": "✅ Module Completion",
+          "description": "Complete all sections to finish this module.",
+          "content": [
+            "Access to Module 2: Fundamentals",
+            "Community access",
+            "Progress badge"
+          ]
+        }
+      }
+    },
+    "module2": {
+      "name": "Module 2: Fundamentals",
+      "description": "Core principles and best practices for web development",
+      "sections": {
+        "section1": {
+          "title": "🌐 HTML & CSS Fundamentals",
+          "description": "Learn the basics of web development:",
+          "content": [
+            "HTML structure and semantics",
+            "CSS styling and layout",
+            "Box model and flexbox",
+            "Best practices and validation"
+          ]
+        },
+        "section2": {
+          "title": "⚡ JavaScript Basics",
+          "description": "Make your websites interactive:",
+          "content": [
+            "JavaScript syntax and basic concepts",
+            "DOM manipulation",
+            "Events and event handling",
+            "Async JavaScript and APIs"
+          ]
+        },
+        "section3": {
+          "title": "📱 Responsive Design",
+          "description": "Ensure your websites look good on all devices:",
+          "content": [
+            "Mobile-first design",
+            "CSS Grid and Flexbox",
+            "Media queries",
+            "Performance optimization"
+          ]
+        },
+        "section4": {
+          "title": "🔧 Development Tools",
+          "description": "Learn essential tools for development:",
+          "content": [
+            "Version Control with Git",
+            "Code editors and IDEs",
+            "Browser developer tools",
+            "Deployment and hosting"
+          ]
+        },
+        "section5": {
+          "title": "✅ Module Completion",
+          "description": "Complete all sections to finish this module.",
+          "content": [
+            "Access to Module 3: AI Tools",
+            "Fundamentals badge",
+            "Portfolio project"
+          ]
+        }
+      }
+    },
+    "module3": {
+      "name": "Module 3: AI Tools",
+      "description": "Effectively implement AI in your development workflow",
+      "sections": {
+        "section1": {
+          "title": "🎯 Cursor AI Mastery",
+          "description": "Learn to use Cursor AI effectively:",
+          "content": [
+            "Cursor AI setup and configuration",
+            "Code generation and debugging",
+            "Project structure optimization",
+            "AI-assisted development workflow"
+          ]
+        },
+        "section2": {
+          "title": "💻 GitHub Copilot",
+          "description": "Integrate GitHub Copilot into your workflow:",
+          "content": [
+            "GitHub Copilot installation",
+            "Code suggestions and autocomplete",
+            "Documentation generation",
+            "Best practices for Copilot"
+          ]
+        },
+        "section3": {
+          "title": "🧠 ChatGPT for Development",
+          "description": "Use ChatGPT for development tasks:",
+          "content": [
+            "Writing effective prompts",
+            "Code review and debugging",
+            "Architecture decisions",
+            "Learning and troubleshooting"
+          ]
+        },
+        "section4": {
+          "title": "🔍 AI Code Review",
+          "description": "AI-assisted code review:",
+          "content": [
+            "Automated code analysis",
+            "Security vulnerability detection",
+            "Performance optimization suggestions",
+            "Code quality improvements"
+          ]
+        },
+        "section5": {
+          "title": "✅ Module Completion",
+          "description": "Complete all sections to finish this module.",
+          "content": [
+            "Access to Module 4: Projects",
+            "AI Tools badge",
+            "Advanced project access"
+          ]
+        }
+      }
+    },
+    "module4": {
+      "name": "Module 4: Projects",
+      "description": "Practical applications and real-world projects",
+      "sections": {
+        "section1": {
+          "title": "🌐 Website Project",
+          "description": "Build a professional website:",
+          "content": [
+            "Project planning and wireframing",
+            "HTML/CSS implementation",
+            "Responsive design",
+            "Deployment and hosting"
+          ]
+        },
+        "section2": {
+          "title": "🛒 Webshop Project",
+          "description": "Develop an e-commerce platform:",
+          "content": [
+            "E-commerce requirements",
+            "Product catalog",
+            "Shopping cart functionality",
+            "Payment integration"
+          ]
+        },
+        "section3": {
+          "title": "⚡ Web Application Project",
+          "description": "Build a complex web application:",
+          "content": [
+            "Application architecture",
+            "Database design",
+            "API development",
+            "User authentication"
+          ]
+        },
+        "section4": {
+          "title": "📁 Portfolio Building",
+          "description": "Create your professional portfolio:",
+          "content": [
+            "Portfolio strategy",
+            "Project showcase",
+            "Personal branding",
+            "Deployment and marketing"
+          ]
+        },
+        "section5": {
+          "title": "✅ Module Completion",
+          "description": "Complete all sections to finish this module.",
+          "content": [
+            "Certificate of completion",
+            "Portfolio review",
+            "Career guidance"
+          ]
+        }
+      }
+    }
+  },
+  "common": {
+    "status": {
+      "available": "Available",
+      "locked": "Locked",
+      "notStarted": "Not Started",
+      "completed": "Completed"
+    },
+    "actions": {
+      "back": "← Back to Modules",
+      "startSection": "Start Section",
+      "markCompleted": "Mark as Completed",
+      "sectionCompleted": "✅ Section Completed",
+      "moduleLocked": "Module Locked",
+      "noLessonsAvailable": "No lessons available"
+    },
+    "progress": {
+      "progress": "Progress: {percentage}%",
+      "completed": "completed"
+    }
+  },
+  "locked": {
+    "title": "Module Locked",
+    "description": "This module is not yet available. Complete the previous modules first.",
+    "requirements": "Requirements to unlock this module:",
+    "module1": "Complete Module 1: Introduction (3 of 4 sections)",
+    "module2": "Complete Module 2: Fundamentals (4 of 5 sections)",
+    "module3": "Complete Module 3: AI Tools (4 of 5 sections)"
+  },
+  "language": {
+    "select": "Select Language",
+    "dutch": "Dutch",
+    "english": "English"
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "navigation": {
+    "dashboard": "Dashboard",
+    "modules": "Modules",
+    "community": "Community",
+    "coaching": "Coaching",
+    "examen": "Examen",
+    "settings": "Instellingen"
+  },
+  "modules": {
+    "overview": {
+      "title": "📚 Leerpad Overzicht",
+      "subtitle": "Voltooi modules om je web development skills te ontwikkelen en toegang te krijgen tot geavanceerde content.",
+      "progress": "Voortgang",
+      "sectionsCompleted": "secties voltooid",
+      "sectionsInModule": "Secties in deze module:",
+      "startModule": "Start Module",
+      "reviewModule": "Module Herzien",
+      "lockedMessage": "Voltooi voorgaande modules om toegang te krijgen",
+      "quizScore": "Quiz Score:",
+      "yourProgress": "📊 Je Voortgang",
+      "unlockedModules": "Modules Ontgrendeld",
+      "completedSections": "Secties Voltooid",
+      "averageProgress": "Gemiddelde Voortgang"
+    },
+    "module1": {
+      "name": "Module 1: Introductie",
+      "description": "Basis concepten en setup voor web development",
+      "sections": {
+        "section1": {
+          "title": "📚 Wat ga je leren?",
+          "description": "In deze introductie module leer je:",
+          "content": [
+            "Wat een website, webshop en webapplicatie zijn",
+            "Hoe deze verschillen in complexiteit",
+            "Verdienpotentieel per project type",
+            "Waarom AI de game-changer is voor developers",
+            "Hoe je AI kunt gebruiken als je persoonlijke assistent"
+          ]
+        },
+        "section2": {
+          "title": "🌐 Project Types & Verdienpotentieel",
+          "description": "Ontdek de verschillende project types en hun verdienpotentieel:",
+          "content": [
+            "Website: €500 - €2.000",
+            "Webshop: €2.000 - €8.000",
+            "Webapplicatie: €8.000 - €20.000+"
+          ]
+        },
+        "section3": {
+          "title": "🤖 AI als je Persoonlijke Assistent",
+          "description": "Leer hoe AI je development workflow revolutioneert:",
+          "content": [
+            "Sneller ontwikkelen met AI",
+            "Minder fouten door AI assistentie",
+            "Complexere projecten mogelijk maken"
+          ]
+        },
+        "section4": {
+          "title": "✅ Module Afronding",
+          "description": "Voltooi alle secties om deze module af te ronden.",
+          "content": [
+            "Toegang tot Module 2: Fundamentals",
+            "Community toegang",
+            "Progressie badge"
+          ]
+        }
+      }
+    },
+    "module2": {
+      "name": "Module 2: Fundamentals",
+      "description": "Core principes en best practices voor web development",
+      "sections": {
+        "section1": {
+          "title": "🌐 HTML & CSS Fundamentals",
+          "description": "Leer de basis van web development:",
+          "content": [
+            "HTML structuur en semantiek",
+            "CSS styling en layout",
+            "Box model en flexbox",
+            "Best practices en validatie"
+          ]
+        },
+        "section2": {
+          "title": "⚡ JavaScript Basics",
+          "description": "Maak je websites interactief:",
+          "content": [
+            "JavaScript syntax en basis concepten",
+            "DOM manipulatie",
+            "Events en event handling",
+            "Async JavaScript en APIs"
+          ]
+        },
+        "section3": {
+          "title": "📱 Responsive Design",
+          "description": "Zorg dat je websites er goed uitzien op alle devices:",
+          "content": [
+            "Mobile-first design",
+            "CSS Grid en Flexbox",
+            "Media queries",
+            "Performance optimalisatie"
+          ]
+        },
+        "section4": {
+          "title": "🔧 Development Tools",
+          "description": "Leer essentiële tools voor development:",
+          "content": [
+            "Version Control met Git",
+            "Code editors en IDEs",
+            "Browser developer tools",
+            "Deployment en hosting"
+          ]
+        },
+        "section5": {
+          "title": "✅ Module Afronding",
+          "description": "Voltooi alle secties om deze module af te ronden.",
+          "content": [
+            "Toegang tot Module 3: AI Tools",
+            "Fundamentals badge",
+            "Portfolio project"
+          ]
+        }
+      }
+    },
+    "module3": {
+      "name": "Module 3: AI Tools",
+      "description": "AI effectief inzetten in je development workflow",
+      "sections": {
+        "section1": {
+          "title": "🎯 Cursor AI Mastery",
+          "description": "Leer Cursor AI effectief te gebruiken:",
+          "content": [
+            "Cursor AI setup en configuratie",
+            "Code generatie en debugging",
+            "Project structuur optimalisatie",
+            "AI-assisted development workflow"
+          ]
+        },
+        "section2": {
+          "title": "💻 GitHub Copilot",
+          "description": "Integreer GitHub Copilot in je workflow:",
+          "content": [
+            "GitHub Copilot installatie",
+            "Code suggestions en autocomplete",
+            "Documentatie generatie",
+            "Best practices voor Copilot"
+          ]
+        },
+        "section3": {
+          "title": "🧠 ChatGPT voor Development",
+          "description": "Gebruik ChatGPT voor development taken:",
+          "content": [
+            "Effectieve prompts schrijven",
+            "Code review en debugging",
+            "Architectuur beslissingen",
+            "Learning en troubleshooting"
+          ]
+        },
+        "section4": {
+          "title": "🔍 AI Code Review",
+          "description": "AI-geassisteerde code review:",
+          "content": [
+            "Automated code analysis",
+            "Security vulnerability detection",
+            "Performance optimization suggestions",
+            "Code quality improvements"
+          ]
+        },
+        "section5": {
+          "title": "✅ Module Afronding",
+          "description": "Voltooi alle secties om deze module af te ronden.",
+          "content": [
+            "Toegang tot Module 4: Projecten",
+            "AI Tools badge",
+            "Advanced project access"
+          ]
+        }
+      }
+    },
+    "module4": {
+      "name": "Module 4: Projecten",
+      "description": "Praktische toepassingen en real-world projecten",
+      "sections": {
+        "section1": {
+          "title": "🌐 Website Project",
+          "description": "Bouw een professionele website:",
+          "content": [
+            "Project planning en wireframing",
+            "HTML/CSS implementatie",
+            "Responsive design",
+            "Deployment en hosting"
+          ]
+        },
+        "section2": {
+          "title": "🛒 Webshop Project",
+          "description": "Ontwikkel een e-commerce platform:",
+          "content": [
+            "E-commerce requirements",
+            "Product catalogus",
+            "Shopping cart functionaliteit",
+            "Payment integration"
+          ]
+        },
+        "section3": {
+          "title": "⚡ Webapplicatie Project",
+          "description": "Bouw een complexe webapplicatie:",
+          "content": [
+            "Application architecture",
+            "Database design",
+            "API development",
+            "User authentication"
+          ]
+        },
+        "section4": {
+          "title": "📁 Portfolio Bouwen",
+          "description": "Creëer je professionele portfolio:",
+          "content": [
+            "Portfolio strategie",
+            "Project showcase",
+            "Personal branding",
+            "Deployment en marketing"
+          ]
+        },
+        "section5": {
+          "title": "✅ Module Afronding",
+          "description": "Voltooi alle secties om deze module af te ronden.",
+          "content": [
+            "Certificaat van voltooiing",
+            "Portfolio review",
+            "Career guidance"
+          ]
+        }
+      }
+    }
+  },
+  "common": {
+    "status": {
+      "available": "Beschikbaar",
+      "locked": "Vergrendeld",
+      "notStarted": "Niet gestart",
+      "completed": "Voltooid"
+    },
+    "actions": {
+      "back": "← Terug naar Modules",
+      "startSection": "Start Sectie",
+      "markCompleted": "Markeer als Voltooid",
+      "sectionCompleted": "✅ Sectie Voltooid",
+      "moduleLocked": "Module Vergrendeld",
+      "noLessonsAvailable": "Geen lessen beschikbaar"
+    },
+    "progress": {
+      "progress": "Voortgang: {percentage}%",
+      "completed": "voltooid"
+    }
+  },
+  "locked": {
+    "title": "Module Vergrendeld",
+    "description": "Deze module is nog niet beschikbaar. Voltooi eerst de voorgaande modules.",
+    "requirements": "Vereisten om deze module te ontgrendelen:",
+    "module1": "Voltooi Module 1: Introductie (3 van de 4 secties)",
+    "module2": "Voltooi Module 2: Fundamentals (4 van de 5 secties)",
+    "module3": "Voltooi Module 3: AI Tools (4 van de 5 secties)"
+  },
+  "language": {
+    "select": "Taal selecteren",
+    "dutch": "Nederlands",
+    "english": "Engels"
+  }
+}
